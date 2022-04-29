@@ -16,7 +16,7 @@
   "author": "Yuval Abudarham",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^2.6.4",
     "bcrypt": "^3.0.6",
     "body-parser": "^1.19.0",
     "express": "^4.16.4",
